@@ -1,13 +1,13 @@
 Gem::Specification.new do |spec|
   spec.name        = "rails-development-toolbox"
-  spec.version     = "0.1.0"
+  spec.version     = "0.1.1"
   spec.date        = "2011-08-05"
   spec.summary     = "An opinionated list of helpful development tools for working with Ruby on Rails."
   spec.description = "An opinionated list of helpful development tools for working with Ruby on Rails."
   spec.authors     = ["Phil Cohen"]
   spec.email       = "github@phlippers.net"
   spec.files       = ["lib/rails-development-toolbox.rb"]
-  spec.homepage    = "http://rubygems.org/gems/hola"
+  spec.homepage    = "https://github.com/phlipper/rails-development-toolbox"
   spec.license     = "MIT"
 
   spec.required_ruby_version = ">= 1.9.2"
