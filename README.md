@@ -21,8 +21,8 @@ gem install rails-development-toolbox
 The toolbox currently includes:
 
 * gem "[wirble](http://pablotron.org/software/wirble/)", "[~> 0.1.3](http://rubygems.org/gems/wirble)"
-* gem "[hirb](http://tagaholic.me/hirb/)", "[~> 0.4.5](http://rubygems.org/gems/hirb)"
-* gem "[capistrano](https://github.com/capistrano/capistrano)", "[~> 2.8.0](http://rubygems.org/gems/capistrano)"
+* gem "[hirb](http://tagaholic.me/hirb/)", "[~> 0.5.0](http://rubygems.org/gems/hirb)"
+* gem "[capistrano](https://github.com/capistrano/capistrano)", "[~> 2.9.0](http://rubygems.org/gems/capistrano)"
 * gem "[capistrano-ext](https://github.com/capistrano/capistrano-ext)", "[~> 1.2.1](http://rubygems.org/gems/capistrano-ext)"
 * gem "[rails3-generators](https://github.com/indirect/rails3-generators)", "[~> 0.17.4](http://rubygems.org/gems/rails3-generators)"
 
