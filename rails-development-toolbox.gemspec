@@ -1,4 +1,4 @@
-require_relative "lib/rails-development-toolbox"
+require File.expand_path("../lib/rails-development-toolbox", __FILE__)
 
 Gem::Specification.new do |spec|
   spec.name        = "rails-development-toolbox"
